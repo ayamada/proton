@@ -8,7 +8,7 @@ See [the API reference](https://xcoo.github.io/proton/api/) for usage.
 
 [![Clojars Project](https://img.shields.io/clojars/v/proton.svg)](https://clojars.org/proton)
 
-[![Coverage Status](https://codecov.io/gh/xcoo/proton/branch/master/graph/badge.svg)](https://codecov.io/gh/xcoo/proton)
+[![Coverage Status](https://codecov.io/gh/ayamada/proton/branch/codecov-test/graph/badge.svg)](https://codecov.io/gh/ayamada/proton)
 
 
 ## Features
