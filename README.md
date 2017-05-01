@@ -4,7 +4,7 @@ Utilities library for Clojure/Script.
 
 See [the API reference](https://xcoo.github.io/proton/api/) for usage.
 
-[![Build Status](https://travis-ci.org/xcoo/proton.svg?branch=master)](https://travis-ci.org/xcoo/proton)
+[![Build Status](https://travis-ci.org/ayamada/proton.svg?branch=master)](https://travis-ci.org/ayamada/proton)
 
 [![Clojars Project](https://img.shields.io/clojars/v/proton.svg)](https://clojars.org/proton)
 
